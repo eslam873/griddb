@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> my cv </title>
+<style>
+body{
+    margin:0;
+    padding;0;
+    background-image:ur1("https://scontent.fcai21-3.fna.fbcdn.net/v/t1.15752-
+
+9/189416426_164660502264952_3094478736406375877_n.png?_nc_cat=108&ccb=1-
+
+3&_nc_sid=ae9488&_nc_ohc=1mIvVZ7utgsAX_GS80Q&_nc_ht=scontent.fcai21-
+
+3.fna&oh=50cf054dbd41612f8e6256d260593d5b&oe=60CC1B77");
+    }
+    h1{
+    text-align:center;
+    color:black;
+ font-size:20px;}
+
+    h2{
+    text-align:center;
+    color:black;
+ font-size:20px;}
+  h3{
+    text-align:center;
+    color:black;}
+    p{
+    font-size:20px;
+    color:black;}
+    img{
+    margin-left:5%;
+    width:90%;
+    height:80%;
+    border:10px solid black;
+    border-radius:5px;}
+    #overlay{
+    margin:50px auto;
+    width:9160 px;
+    height:100px;
+    background-color:rgba(1,1,1,0.5);
+    border-radius:10px;}
+    .block1{
+    width:500px;
+    height:500px;
+    float:left;
+    }
+    .block2{
+    width:400px;
+    float:left;
+    margin-left:50px;
+    }
+    button{
+    width:150px;
+    height:50px;
+    background-color:skyblue;
+    color:white;
+    border:0;
+    border-radius:2px;
+    font-size:15px;
+    margin-top:5px;
+</style>
+</head>
+<body>
+
+<div id ="over.lay">
+<h1>my name is eslam nabil</h1>
+<div class="block1">
+<img src=" https://scontent.xx.fbcdn.net/v/t1.15752-
+
+0/s206x206/187458227_338122994582036_5726408533828052685_n.png?_nc_cat=111&ccb=1-
+
+3&_nc_sid=58c789&_nc_ohc=vYgWBEZ27swAX9SZGTO&_nc_ad=z-
+
+m&_nc_cid=0&_nc_ht=scontent.xx&tp=30&oh=c603d75b41ed63c948b958b5e48fc694&oe=60CD523D "/>
+</div>
+<div class="block2">
+<p> my name is eslam nabil i'm 20 years old i live in banha-egypt, i'm studying engineering in 
+
+shoubra faculty of engineering , ihave alot of skills such i can speak 2 language 
+
+arabic,english)and i know some programming language (html,css,c,c++)
+</p>
+<br/>
+<h2>hobbies</h2>
+<p>i love reading,running,playing football,playing basketball and going to gym.</p>
+<br/>
+<h3>my social links</h3>
+<a href="https://www.facebook.com/profile.php?id=100020450416556" "target="_blank"><button> 
+
+facebook</button></a>
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fsara7aa.com%2Fuser681192409239100%3Ffbclid
+
+%3DIwAR2Qeo6nq-bhUt7a6cyj1dBPv-
+
+pgF9MBGfsrZrGt2XvNKbwIeV9FAHD3g3c&h=AT0EOcbOJwvJh0OAdbADwYc1RfIpQIcwqBcwDgJOogXfro4waXpT2c1GWDvIGO
+
+y_GbQhOTNUkg7bO3gcFNgP8rkmvFwRnYRjCy_mQfykO--Kp7Hori9bcPMee0xMmoTWUEex "target="_blank"><button> 
+
+sar7a</button></a>
+<h4>Email:eslam190001@gmail.com</h4>
+</div>
+</div>
+</body>
+</html>
